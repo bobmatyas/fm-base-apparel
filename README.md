@@ -1,5 +1,15 @@
 # Frontend Mentor - Base Apparel coming soon page
 
+My solution for the Base Apparel challenge from Frontend Mentor. I created the layout using CSS Grid and CSS custom properties.
+
+View it in the browser at:
+
+[https://bobmatyas.github.io/fm-base-apparel/](https://bobmatyas.github.io/fm-base-apparel/)
+
+
+
+## Design Preview
+
 ![Design preview for the Base Apparel coming soon page coding challenge](./design/desktop-preview.jpg)
 
 ## Welcome! 👋
